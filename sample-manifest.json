@@ -1,0 +1,12 @@
+{
+  "export_job_id": "f3db1464-2e2c-4b5e-a489-fade66091395",
+  "id_short": 874837,
+  "published_at": "2026-04-19T07:41:17Z",
+  "repo_name": "restaurant-social-ghosts-in-district-of-columbia-us-sample-874837",
+  "sample_asset_name": "beamstation_874837_restaurants-us-dc_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/874837/beamstation_874837_restaurants-us-dc_SAMPLE_DIST.csv",
+  "sample_records": 1,
+  "sample_sha256": "d68457c473ddaaca25535a02c359144dd7747f490059123b94506bb265292a53",
+  "sample_size_bytes": 19946,
+  "total_records": 19
+}
