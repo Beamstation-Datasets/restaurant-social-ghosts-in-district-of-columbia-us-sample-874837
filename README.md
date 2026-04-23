@@ -9,9 +9,9 @@
 | Dataset ID | `874837` |
 | Location | District of Columbia |
 | Category | Restaurants |
-| Full dataset size | 19 records |
-| Free sample size | 1 records (5.26%) |
-| Last export | 2026-04-15T10:55:36.573184+00:00 |
+| Full dataset size | 11 records |
+| Free sample size | 1 records (9.09%) |
+| Last export | 2026-04-22T18:56:49.543769+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-social-ghosts-in-district-of-columbia-us-sample-874837/releases/download/sample-latest/beamstation_874837_restaurants-us-dc_SAMPLE_DIST.csv) |
 
 ## What is in this sample
