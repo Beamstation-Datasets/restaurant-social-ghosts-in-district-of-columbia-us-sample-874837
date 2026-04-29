@@ -6,17 +6,17 @@
   "config_category": "social",
   "config_description": "Marketing Agency Gold. High-rated restaurants (>4.5 rating) with low to zero social presence (<100 followers OR no social profiles) for social media marketing. Great product, terrible distribution -> Pitch them Growth.",
   "config_name": "Restaurant Social Ghosts in District of Columbia, US",
-  "export_job_id": "acda1ea0-26d4-4532-a5b3-c93779167da2",
+  "export_job_id": "14b3da44-e8f4-4ff9-80d9-082a92e991b7",
   "github_org": "Beamstation-Datasets",
   "id_short": 874837,
   "location_name": "District of Columbia",
   "location_type": "state",
   "repo_name": "restaurant-social-ghosts-in-district-of-columbia-us-sample-874837",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/874837/beamstation_874837_restaurants-us-dc_SAMPLE_DIST.csv",
-  "sample_pct": 9.09,
+  "sample_pct": 8.33,
   "sample_records": 1,
-  "sample_sha256": "c514af44756f2276242ea65e4fe9b182ab88b38c35407d02775b817b923a13b3",
-  "sample_size_bytes": 20392,
-  "total_records": 11,
-  "updated_at": "2026-04-22T18:56:49.543769+00:00"
+  "sample_sha256": "043ad846060666418159be145a0062a3973967ea6157d91fa61cc9631f4f5811",
+  "sample_size_bytes": 19816,
+  "total_records": 12,
+  "updated_at": "2026-04-29T18:10:27.640947+00:00"
 }
